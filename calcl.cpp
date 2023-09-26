@@ -31,7 +31,7 @@ switch (op){
       result = num_1 / num_2;
       break;
     default:
-    std::cout << "How can you fk it up";
+    std::cout << "How can you f it up";
 } 
 
 
